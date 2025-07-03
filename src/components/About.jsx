@@ -27,7 +27,7 @@ const About = () => {
             opacity:0,
             duration:1,
             ease:'power1.inOut',
-            stagger:0.4
+            stagger:0.2
         },"-=0.5")
 
     })
